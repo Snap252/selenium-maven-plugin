@@ -99,7 +99,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:ssh://snap252@github.com/Snap252/selenium-maven-plugin</developerConnection>
+		<developerConnection>scm:git:https://snap252@github.com/Snap252/selenium-maven-plugin</developerConnection>
 	  <tag>selenium-maven-plugin-2.4</tag>
   </scm>
 </project>
